@@ -15,3 +15,10 @@ plt.xlabel('X1', fontsize = 15)
 plt.ylabel('X2', fontsize = 15)
 plt.show()
 ```
+
+### What is Capstone prospecting?
+- [ ] List 5 companies to target
+- [ ] Research companies
+- [ ] Use templates to make connections
+- [ ] Create a proposal
+- [ ] Follow up, Follow up and Follow up
